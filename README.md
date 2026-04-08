@@ -77,7 +77,7 @@ This project can be used for:
 ---
 
 ## 👩‍💻 Author
-**Your Name**
+**Isha Soni**
 
 ---
 
