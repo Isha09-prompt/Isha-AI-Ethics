@@ -40,8 +40,7 @@ It integrates document-based knowledge with AI to provide intelligent responses 
 ![Workflow](AI%20ETHICS%20RAG%20SYSTEM.png)
 
 ### 🔹 Chat Output
-### 🔹 Chat Output
-![Chat](CHAT.png)
+![Chat Output](chat.png)
 
 ---
 
